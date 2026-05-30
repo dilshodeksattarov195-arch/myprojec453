@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecrocess",
+        "uuid": 3243933,
+        "checksum": "44rpku"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
